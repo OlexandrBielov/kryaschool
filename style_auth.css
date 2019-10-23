@@ -1,0 +1,13 @@
+body{
+	/*margin: 0;*/
+	background: linear-gradient(45deg,  #75f079, #5ebf61);
+	font-family: 'Roboto', sans-serif;
+	font-size: 16pt;
+	display: flex;
+	align-items: center;
+ 	justify-content: center;
+}
+
+.wrapper {
+ 	height: 100px; 
+}
